@@ -1,4 +1,4 @@
-var document = [
+var myDocument = [ //changed var to myDocument since document is restricted
   {
     tagName: "div",
     children: [
@@ -41,3 +41,5 @@ var document = [
     ]
   }
 ]
+
+myDocument
