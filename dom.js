@@ -42,4 +42,12 @@ var myDocument = [ //changed var to myDocument since document is restricted
   }
 ]
 
-myDocument
+myDocument[0].children[0].children;
+
+/*
+or chain it
+var bigChildren = myDocument[0];
+var littleChildren = bigChildren.children[0]
+var tagNames = children*/
+
+
