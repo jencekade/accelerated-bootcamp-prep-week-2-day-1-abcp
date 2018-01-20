@@ -38,3 +38,6 @@ names.forEach(function(name) {
 })
 
 
+
+/*the forEach takes in a function whether anonymous
+or a var that gets a value of a function*/
